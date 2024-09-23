@@ -2,6 +2,9 @@
 
 A simple React application that displays a list of items and allows users to filter these items based on a search input. The application utilizes Redux Toolkit for state management and is optimized to minimize re-renders using React best practices.
 
+## Deployed Link
+[Click here to view the deployed application](https://listfilter.netlify.app/)
+
 ## Features
 
 - Display a list of items names, and prices.
