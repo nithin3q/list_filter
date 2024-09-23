@@ -29,8 +29,8 @@ A simple React application that displays a list of items and allows users to fil
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/item-list-search.git
-   cd item-list-search
+   git clone https://github.com/nithin3q/list_filter.git
+   cd list_filter
    ```
 2. Install dependencies:
    ```bash
